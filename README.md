@@ -14,7 +14,7 @@ minimal competition.
 
 # Tech used
 
-[Python](), [KMeans](), [Foursquare](), [Geocoding](), [Beautiful Soup](), [Jupyter Notebook]()
+[Python](https://www.python.org/), [KMeans](https://www.w3schools.com/python/python_ml_k-means.asp), [Foursquare](https://www.kaggle.com/code/kristoft/tutorial-foursquare-api-search), [Geocoding](https://towardsdatascience.com/geocode-with-python-161ec1e62b89), [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/), [Jupyter Notebook](https://jupyter.org/)
 
 Techniques used: One-hot encoding, feature engineering & selection, segmenting and k-means clustering, geocoding (to get longitude and latitude for places), data scraping using Python library BeautifulSoup (to get neighborhoods corresponding to postal codes and co-ordinates) and Foursquare API.
 
