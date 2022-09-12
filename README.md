@@ -26,17 +26,17 @@ In most cases, a restaurant's location plays an essential determinant for its su
 
 Hence, it is advantageous and of utmost importance to determine the most strategic location for establishment in order to maximize business profits.
 
-***For more check out Notebooks: [Toronto ](), [Chennai](), [Berlin]()***
+***For more check out Notebooks: [Toronto](), [Chennai](), [Berlin]()***
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/Live-Optimal_Business_Location/blob/main/images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/Live-Optimal_Business_Location/blob/main/images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/Live-Optimal_Business_Location/blob/main/images/3.png)
 
-![Image4]()
+![Image4](https://github.com/Anuragtsl/Live-Optimal_Business_Location/blob/main/images/4.png)
 
 
 
